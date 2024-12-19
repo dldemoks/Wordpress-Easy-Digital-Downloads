@@ -1,8 +1,8 @@
-Wordpress (Easy Digital Downloads)
+Wordpress - Easy Digital Downloads
 ======
-Модуль оплаты Payeer
+Payment module Payeer
 
-Для установки модуля скачайте и распакуйте архив.
-Далее следуйте прилагаемой инструкции
+To install the module, download and unzip the archive.
+Then follow the attached instructions.
 
-Разрабатывался на версии CMS Wordpress 4.7.2 с плагином Easy Digital Downloads 2.7.4
+Support for CMS Wordpress 4.7.2 with plugin Easy Digital Downloads 2.7.4
